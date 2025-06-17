@@ -11,3 +11,10 @@ sort two arrays
 same index subtract 
 resultant in an new array 
 summation = target
+
+
+=> part two 
+take 2 arrays 
+compare 1 elements appearance in another 
+element * appearance = ans 
+ans array += target
