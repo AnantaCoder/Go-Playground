@@ -1,0 +1,13 @@
+1. extract text 
+2. for left and right 2 arrays 
+3. finding elements 1st to 2nd .... 
+4. subtracting and pop them from array 
+5. make a new array of substituted elements 
+6. sum of array 
+7. result
+
+%% alternative approach 
+sort two arrays 
+same index subtract 
+resultant in an new array 
+summation = target

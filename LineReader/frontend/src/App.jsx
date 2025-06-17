@@ -59,7 +59,7 @@ const customReactQuery = (endpoint)=>{
       setError("File is not Uploaded")
       return 
     }
-    // cancel any prev ongoing request
+    // cancel any prev ongoing request 
     if (controller){
       controller.abort();
     }
